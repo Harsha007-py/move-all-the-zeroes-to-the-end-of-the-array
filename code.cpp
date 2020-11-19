@@ -33,4 +33,4 @@ int main(){
 	}
 	return 0;
 }
-//Contibuted by M.Harshavardhan
+//Contributed by Harshavardhan Mudiminchi
